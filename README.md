@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ARCLENGTH
+- 👋 Hi, I’m Felix
 - 👀 I’m interested in aerial mechanics and machine learning
 - 🌱 I’m currently learning C language in Zhejiang University
 - 💞️ I’m looking to collaborate on robotics with [ZJU FAST LAB](https://github.com/ZJU-FAST-Lab)!
